@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HeadyTask</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Heady</string>
+    <string name="nav_header_subtitle">Ecommerce</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_product">Product</string>
+    <string name="title_activity_variant">Variant</string>
+    <string name="title_activity_subcategory">Sub Category</string>
+</resources>
